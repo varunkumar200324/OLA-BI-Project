@@ -48,7 +48,7 @@ Revenue by Payment Method: Breaks down revenue based on payment methods such as 
 
 Most Revenue-Generating Customer ID: Identifies the customer(s) who generate the most revenue.
 
-![Screenshot 2025-01-09 173734](https://github.com/user-attachments/assets/04cbd5c8-e2f1-449e-8e1b-b9087c2dd547)
+![Screenshot 2025-01-11 103203](https://github.com/user-attachments/assets/bc50d000-47a4-4e5c-a0e5-f5d5b0d48241)
 
 
     Key Insight:
