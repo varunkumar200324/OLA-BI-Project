@@ -84,7 +84,7 @@ Customer Rating Overview: Displays customer ratings for their rides.
 
 Driver Rating Overview: Shows ratings given to drivers by customers.
 
-![Screenshot 2025-01-09 173802](https://github.com/user-attachments/assets/0e1eacf5-9bd4-42ba-8ab3-b43944110cbc)
+![Screenshot 2025-01-11 103245](https://github.com/user-attachments/assets/688cd3eb-3e69-45da-9c99-01203ac31322)
 
     Key Insights:
 
