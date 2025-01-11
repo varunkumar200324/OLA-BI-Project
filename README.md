@@ -1,4 +1,4 @@
-# Ola BI Project
+# OLA BI Project
 This Power BI project focuses on the analysis of ride-sharing data for OLA, providing insights into various aspects such as booking trends, vehicle types, payment methods, cancellations, and ratings. The dashboard is segmented into multiple sheets that each address key performance indicators (KPIs) across different areas of the business.
 
 * ### Sheet 1: Overview
