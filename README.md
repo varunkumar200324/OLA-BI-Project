@@ -32,7 +32,7 @@ Average Distance Traveled: Provides the average distance each vehicle type cover
 
 Total Distance Traveled: Displays the overall distance covered by each vehicle type.
 
-![Screenshot 2025-01-09 173722](https://github.com/user-attachments/assets/67ad14be-82de-4c42-984b-08bf724e0dca)
+![Screenshot 2025-01-11 103139](https://github.com/user-attachments/assets/b9deaf04-d47b-4d67-b406-738397c102c6)
 
     Key Insight:
 
