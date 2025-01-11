@@ -10,7 +10,7 @@ Booking Status Breakdown: Analyzes the status of bookings (e.g., successful, can
 
 Ride Volume Over Time: Visualizes the ride volume over time to identify trends, peaks, and troughs.
 
-<a href="D:\git\Screenshot 2025-01-11 103003.png" target="_blank"></a>
+![Screenshot 2025-01-11 103003](https://github.com/user-attachments/assets/423c69cc-fb25-4111-8772-022db4f4b0cc)
 
     Key Insight:
 
