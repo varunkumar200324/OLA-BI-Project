@@ -65,7 +65,7 @@ Cancelled Rides by Customers: Shows the number of cancelled rides by customers, 
 
 Cancelled Rides by Drivers: Displays the cancellations made by drivers due to reasons like personal or vehicle-related issues.
 
-![Screenshot 2025-01-09 173752](https://github.com/user-attachments/assets/b538aa72-c572-4bec-89fb-bea084cf2b61)
+![Screenshot 2025-01-11 103220](https://github.com/user-attachments/assets/7909c361-472e-4515-8366-981db402fdd1)
 
     Key Insights:
 
